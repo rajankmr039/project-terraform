@@ -13,8 +13,5 @@ Tasks:
 --Installation og nginx
 -- /var/www/html/index.nginx-debian.html --> Hey "This is Rajan"
 
---Export Access key Secret key by environemnt variable
--- CMD-- export TF_VAR_username=xyz
-
 
 
